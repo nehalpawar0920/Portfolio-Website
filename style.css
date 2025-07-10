@@ -111,7 +111,7 @@ section {
 
 /* --- Home Section --- */
 .home {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("./wallpaper 2.jpg") no-repeat center center/cover; /* Darker overlay */
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("https://github.com/nehalpawar0920/Portfolio-Website/blob/main/wallpaper%202.jpg?raw=true") no-repeat center center/cover; /* Darker overlay */
     color: #fff;
 }
 
